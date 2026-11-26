@@ -1,0 +1,49 @@
+DEMO NAVEGABLE · PROPUESTA DE REDISEÑO DE IVANDUQUE.COM
+Preparada el 25 de noviembre de 2026
+
+ABRIR LA DEMO
+1. Extraer completamente el ZIP.
+2. Entrar en la carpeta ivanduque-demo.
+3. Abrir index.html en una versión actual de Chrome, Edge, Firefox o Safari.
+Mantener la carpeta assets junto al archivo index.html. No abrir dentro del ZIP.
+No necesita instalación ni servidor. Las imágenes, estilos e interacciones son locales.
+Los enlaces al sitio oficial necesitan internet. La apertura directa por archivo está
+prevista en el código; la revisión interactiva se realizó mediante servidor HTTP local.
+
+QUÉ INCLUYE
+Portada, perfil, visión editorial, iniciativas, prensa con cuatro filtros,
+fichas de lectura, podcast y formulario demostrativo con validación del navegador.
+Menú adaptable a móviles, navegación con teclado, cierre de fichas con Escape,
+etiquetas de formulario y respeto de la preferencia de movimiento reducido.
+
+CONTENIDO
+La demo está claramente identificada como propuesta independiente y no oficial.
+Los títulos de prensa son ficticios: no son noticias publicadas.
+El lema de portada es un concepto creativo, no una cita de Iván Duque.
+No contiene cifras de impacto, testimonios, eventos ni logros inventados.
+Datos biográficos limitados a nombre y período presidencial del sitio oficial.
+El formulario no envía ni guarda información. Probar con datos ficticios.
+
+ALCANCE
+Es una demo estática para revisión privada. No es un tema WordPress instalable,
+no está publicada y no incluye un servicio de correo, CMS, analítica ni SEO de producción.
+La etiqueta noindex se mantiene para impedir indexación accidental cuando se respete.
+Consultar WORDPRESS.txt para la propuesta de implementación futura.
+Consultar FUENTES.txt para procedencia de imágenes y contenido.
+Las fotografías requieren confirmar derechos antes de publicar o distribuir públicamente.
+
+COMPROBACIONES
+Consultar VERIFICACION.txt. La revisión móvil es emulada, no una prueba en teléfono físico.
+
+ACTUALIZACIÓN AUDIOVISUAL
+Se añadió una pieza conceptual de 18 segundos con reproducción manual, controles
+nativos y transcripción accesible. El video está dentro de assets, funciona sin
+internet y no reproduce sonido ni se inicia automáticamente.
+
+ACTUALIZACIÓN V2 · ESTILO EDITORIAL APORTADO POR EL USUARIO
+Portada asimétrica clara, tarjetas blancas, acentos granate, índigo y teal.
+Se conserva la pieza audiovisual conceptual y las interacciones existentes.
+Abrir index.html tras extraer la carpeta completa del ZIP.
+No se modificó el archivo original de referencia de Downloads.
+La nueva composición está preparada con reglas para escritorio, tablet y móvil,
+pero no pudo revisarse visualmente en navegador en esta sesión.

@@ -1,0 +1,54 @@
+VERIFICACIÓN DE LA DEMO · 25 DE NOVIEMBRE DE 2026
+
+Archivos y código
+- Sintaxis de JavaScript comprobada con Node.
+- Auditoría de referencias locales, destinos de navegación, IDs únicos y fichas.
+- Tres imágenes cargadas correctamente en Chrome.
+- Recursos locales, sin bibliotecas, fuentes remotas ni conexión de formularios.
+- ZIP comprobado mediante lectura de todas sus entradas y comparación SHA-256
+  con los archivos fuente. El resumen de integridad se entrega junto al ZIP.
+
+Interacción en Chrome por HTTP local
+- Los cuatro filtros muestran respectivamente 1, 1, 1 y 3 piezas.
+- Las nueve fichas de detalle distintas abren y cierran correctamente.
+- Enlaces internos de inicio y contacto comprobados.
+- Menú móvil abre, permite navegar y vuelve a cerrarse.
+- Formulario probado con nombre, correo y mensaje ficticios: muestra confirmación
+  local de prueba, restablece los campos y no envía datos.
+- Portada revisada visualmente en escritorio y móvil.
+- Anchos emulados 360, 390, 768 y 1024 px: sin desbordamiento horizontal del documento.
+
+Límites de la comprobación
+- No se probó en teléfonos físicos, Safari o Firefox.
+- La apertura file:// no pudo revisarse porque la herramienta de navegador
+  bloquea ese protocolo. No hay módulos ni peticiones locales que requieran servidor;
+  la entrega está diseñada para abrir index.html tras extraer el ZIP.
+- El navegador registró mensajes de canal de extensión cerrado durante las
+  comprobaciones. No se atribuyen al código de la demo; los controles probados
+  respondieron. No se afirma una consola completamente vacía.
+- Enlaces externos no forman parte de la experiencia sin conexión.
+- No se ha publicado ni convertido a WordPress.
+- Los contenidos definitivos y los derechos de imágenes requieren aprobación.
+
+ACTUALIZACIÓN CON VIDEO INSTITUCIONAL CONCEPTUAL
+- Video H.264: 18 segundos exactos, 1280 x 720, 24 fps, sin audio.
+- Decodificación completa con FFmpeg sin errores.
+- Revisados visualmente fotogramas de las tres escenas.
+- Sección con controles nativos, reproducción manual, poster y transcripción.
+- Referencias locales y destinos internos nuevamente comprobados.
+- La sección audiovisual nueva no se revisó de nuevo en navegador; las pruebas
+  interactivas anteriores corresponden a la versión base.
+- El ZIP actualizado se comparó archivo por archivo con las fuentes.
+
+REVISIÓN V2 · ESTILO EDITORIAL DE REFERENCIA
+- Auditoría estática: 16 IDs únicos, 19 anclas, 8 referencias locales comprobadas
+  (incluyendo video y poster), 12 botones con fichas correspondientes.
+- JavaScript: comprobación de sintaxis satisfactoria; lógica existente conservada.
+- Video y fotografías conservados; no se copiaron scripts ni dependencias remotas
+  del archivo de referencia. El nuevo CSS es local y no requiere Tailwind.
+- Adaptación definida a 1050 y 760 px. Fuentes del sistema, sin conexión externa.
+- Límite: el navegador no pudo conectarse al servidor de vista previa durante esta
+  revisión; la composición V2 y su adaptación visual no se verificaron en navegador.
+  Las pruebas interactivas y de anchura de las secciones anteriores corresponden
+  a la versión base, no constituyen una nueva revisión visual de esta versión.
+- ZIP V2 comprobado archivo por archivo con SHA-256.

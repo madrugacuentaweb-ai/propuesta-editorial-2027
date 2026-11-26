@@ -1,0 +1,46 @@
+GUÍA DE TRASPASO A WORDPRESS · PROPUESTA, NO IMPLEMENTACIÓN
+
+Diseño
+Colores: azul #102e40, marfil #f5f3ed, verde claro #a9c8bd.
+Tipografía: Georgia para titulares; Arial/Helvetica para lectura y navegación.
+No depende de fuentes externas. Conservar tamaños fluidos y puntos de adaptación
+a 1000 y 760 px. Conservar contraste, foco visible y textos alternativos.
+
+Estructura sugerida
+- Inicio: bloques editables de portada, perfil, temas, iniciativas, prensa y podcast.
+- Perfil: página editorial con biografía y cronología documentada.
+- Iniciativas: tipo de contenido con nombre, extracto, imagen, contenido y enlace.
+- Actualidad: entradas con categorías Análisis, Diálogos y Publicaciones.
+- Podcast: archivo editorial, con enlace o reproductor autorizado.
+- Contacto: página y formulario conectado a correo institucional verificado.
+
+Plantillas sugeridas
+Cabecera y pie compartidos, portada, página editorial, archivo de actualidad,
+entrada individual, archivo de iniciativas y ficha de iniciativa.
+Las ventanas de detalle de esta demo se convertirían en páginas con URL propia.
+
+Campos y administración
+Título, extracto, contenido, categoría, fecha real, autor validado, imagen y crédito,
+fuente, enlace externo y orden de presentación. Evitar texto incrustado en imágenes.
+Crear permisos de edición adecuados y revisar los contenidos antes de publicarlos.
+
+Antes de producción
+Sustituir ejemplos por textos aprobados; confirmar derechos de fotografías;
+validar identidad y contactos; definir privacidad, tratamiento de datos y retención;
+conectar el formulario con protección antispam y comprobar entrega;
+configurar títulos, metadescripciones, sitemap y redirecciones de URLs existentes;
+retirar noindex solo cuando proceda; optimizar imágenes; revisar accesibilidad,
+seguridad, copias de respaldo, rendimiento y dispositivos físicos.
+
+El ZIP no incorpora WordPress, PHP, plugins ni una base de datos.
+Esta guía no confirma presupuesto, plazo contractual ni contratación.
+
+Video: incorporar institucional-demo.mp4 como bloque de video local con poster,
+controles, playsinline y transcripción. Reproducción manual. Sustituir por pieza
+aprobada y revisar derechos antes de producción.
+
+REVISIÓN DE ESTILO V2 (REFERENCIA APORTADA POR EL USUARIO)
+La dirección visual anterior se sustituye por: fondo #f8fafc, superficies blancas,
+texto #0b1c30, acento granate #b9003e, índigo #311b92 y teal #00869e.
+Portada editorial asimétrica, tarjeta de retrato, etiquetas, llamada con borde
+lateral y módulos blancos. Mantener la jerarquía de esta versión al migrar.

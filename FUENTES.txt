@@ -1,0 +1,43 @@
+FUENTES Y PROCEDENCIA · CONSULTA: 25 DE NOVIEMBRE DE 2026
+
+Fuente factual principal: https://ivanduque.com/
+- Nombre: Iván Duque Márquez; presidente de Colombia 2018–2022.
+- Iniciativas mencionadas en la portada oficial: Iván Duque Center for Prosperity
+  and Freedom, Fundación I+D, Grupo Libertad y Democracia, Concordia Amazonas.
+- Presentación general del podcast Tres Respuestas.
+Se usaron resúmenes breves. La demo no reproduce noticias ni citas de opinión.
+
+Referente: https://www.kofiannanfoundation.org/
+Inspiración de organización institucional y jerarquía editorial.
+No se utilizan su marca, fotografías ni textos, y no existe afiliación.
+
+Fotografías descargadas desde el sitio oficial:
+assets/portada.jpg
+https://ivanduque.com/idm-access/uploads/2026/09/banner-5-ivan-duque.jpg
+assets/perfil.jpg
+https://ivanduque.com/idm-access/uploads/2024/06/ivanduquemarquez3.jpg
+assets/podcast.jpeg
+https://ivanduque.com/idm-access/uploads/2024/05/podcast-idm.jpeg
+
+Disponibilidad pública no equivale a licencia de reutilización.
+Material de referencia para revisión privada: confirmar autorización del titular
+de derechos o sustituir por material autorizado antes de publicación.
+Las composiciones geométricas de prensa e iniciativas se construyeron con CSS.
+
+Todos los lemas creativos, títulos ficticios de prensa y textos de explicación
+del diseño son demostrativos. No deben presentarse como declaraciones del titular.
+
+VIDEO CONCEPTUAL AÑADIDO
+assets/institucional-demo.mp4: montaje original de las fotografías portada.jpg y
+perfil.jpg, títulos creativos y geometría animada. No es metraje de un evento,
+no contiene voz, declaraciones ni representación de actividades no documentadas.
+18 segundos, 1280 x 720, 24 fps, H.264, sin audio. Misma limitación de derechos
+de las fotografías fuente. video-poster.jpg es un fotograma del montaje.
+
+REFERENCIA VISUAL APORTADA POR EL USUARIO
+code.html, DESIGN.md y screen.png de stitch_redise_o_y_optimizaci_n_web.
+Se adaptó la dirección visual: fondo frío claro, tarjetas blancas, composición
+asimétrica y acento granate #b9003e. No se copiaron cifras, testimonios, textos
+de informes, relaciones institucionales ni imágenes remotas del archivo.
+Tipografía local Georgia y Arial/Helvetica para conservar uso sin conexión;
+no se descargaron Newsreader ni Plus Jakarta Sans del diseño de referencia.
